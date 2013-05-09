@@ -1,0 +1,1 @@
+una serie de ejercicios basicos hechos en qpython, para android.
